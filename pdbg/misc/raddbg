@@ -1,0 +1,9 @@
+// raddbg 0.9.28 project file
+
+target:
+{
+  executable: "../build/pdbg.exe"
+  working_directory: "../build/"
+  arguments: "cmd.exe"
+  enabled: 1
+}
